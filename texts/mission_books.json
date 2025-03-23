@@ -1,0 +1,17 @@
+{
+  "planet": "./imgs/planets/books.png",
+ "background" :"imgs/back/back clean.png",
+ "personage": {
+  "img": "./imgs/persos/books.png",
+  "position": {
+   "x":1050,
+   "y":0
+  },
+  "size":{"x": 712,"y": 712}
+ },
+ "scenes":[
+  {
+   "text": "Salut jeune inconnu(e)! Bienvenue sur la planète Book's land |Nous avons un problème de rangement.|Peux tu ranger les livres miraculous du numéro  plus petit au plus grand! |Attention aux pièges !","audio_path": "./audio/scenes/books.ogg"},
+  {"text": "Appuyer sur un bouton pour redécoller",
+   "audio_path": "./audio/common/redecollage.ogg"}]
+}

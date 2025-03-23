@@ -1,0 +1,25 @@
+
+
+
+{
+ "planet": "./imgs/planets/legume.png",
+ "background" :"imgs/back/back clean.png",
+ "personage": {
+  "img": "imgs/persos/carotte.png",
+  "position": {
+   "x":1100,
+   "y":30
+  },
+  "size":{"x": 320,"y": 488}
+ },
+ "scenes":[
+  {
+   "text": "Salut jeune inconnu(e)! bienvenue sur la planète pot-agé | Nous sommes de fin palets, On aime manger quoi!| Nous avons des échantillons que nous n'arrivons pas à identifier,| peux tu les rammener sur terre pour que vous les analysiez ?","audio_path": "./audio/scenes/potager.ogg"},
+  {"text": "Appuyer sur un bouton pour redécoller",
+   "audio_path": "./audio/common/redecollage.ogg"}],
+ "prout": {"text1":"",
+"text2": "Appuyer sur un bouton pour redécoller",
+"text3": "Atterissage réussi, Tirez un papier au hasard et collé le sur votre tête, posez des question à vos camarades astronautes, il ne peuvent répondre que par oui ou non.\nDevinez ce qui est affiché",
+ "text4": "Bonne devinette! Fin de communication"
+}
+}

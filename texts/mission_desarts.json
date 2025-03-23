@@ -1,0 +1,17 @@
+{
+  "planet": "./imgs/planets/art.png",
+ "background" :"imgs/back/back clean.png",
+ "personage": {
+  "img": "./imgs/persos/art.png",
+  "position": {
+   "x":1100,
+   "y":30
+  },
+  "size":{"x": 475,"y": 475}
+ },
+ "scenes":[
+  {
+   "text":"Salut jeune inconnu(e)! bienvenue sur la planète des arts!|Nous sommes de grands collectionneurs d'arts!|Voila de quoi vous entrainer et montrez nous de quoi vous êtes capable|Prenez la caisse,|et retournez sur votre planète pour nous faire des statues extraterrestre.","audio_path": "./audio/scenes/art.ogg"},
+  {"text": "Appuyer sur un bouton pour redécoller",
+   "audio_path": "./audio/common/redecollage.ogg"}]
+}

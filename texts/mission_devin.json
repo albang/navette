@@ -1,0 +1,17 @@
+{
+  "planet": "./imgs/planets/irma.png",
+ "background" :"imgs/back/back clean.png",
+ "personage": {
+  "img": "./imgs/persos/irma.png",
+  "position": {
+   "x":1100,
+   "y":35
+  },
+  "size":{"x": 475,"y": 475}
+ },
+ "scenes":[
+  {
+   "text": "Salut jeune inconnu! bienvenue sur la planète divination!|Nos oreilles nous permettent de nous guider dans le noir,|êtes vous capable de faire de même ? Prenez la pochette et au travail.","audio_path": "./audio/scenes/divi.ogg"},
+  {"text": "Appuyer sur un bouton pour redécoller",
+   "audio_path": "./audio/common/redecollage.ogg"}]
+}

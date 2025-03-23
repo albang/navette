@@ -1,0 +1,17 @@
+{
+  "planet": "./imgs/planets/fusee.png",
+ "background" :"imgs/back/back clean.png",
+ "personage": {
+  "img": "./imgs/persos/vinci.png",
+  "position": {
+   "x":1100,
+   "y":30
+  },
+  "size":{"x": 475,"y": 475}
+ },
+ "scenes":[
+  {
+   "text":"Salut jeune inconnu! bienvenue sur la planète Fuse land!|Nous sommes des apprentis spationautes,|aidez nous à faire voler nos fusées. |Prenez la caisse et retourner sur votre planète et faite voler vos fusées!","audio_path": "./audio/scenes/fusee.ogg"},
+  {"text": "Appuyer sur un bouton pour redécoller",
+   "audio_path": "./audio/common/redecollage.ogg"}]
+}

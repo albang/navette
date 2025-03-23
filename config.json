@@ -1,0 +1,61 @@
+{
+  "participants": [
+    "Pierre",
+        "Paul",
+        "Jacques",
+        "Henriette",
+        "Louise",
+        "Greta"
+  ],
+  "vaisseaux": [
+    {
+      "name": "Camping-Fussée",
+      "skin": "./imgs/fusee/fus_camping.png",
+      "rayon": 80,
+      "vitesse": 70
+    },
+    {
+      "name": "Chat-Fussée",
+      "skin": "./imgs/fusee/fus_chat.png",
+      "rayon": 80,
+      "vitesse": 70
+    },
+    {
+      "name": "Chien-Fussée",
+      "skin": "./imgs/fusee/fus_chien.png",
+      "rayon": 80,
+      "vitesse": 70
+    },
+    {
+      "name": "Fusée classique",
+      "skin": "./imgs/fusee/fus_classic.png",
+      "rayon": 80,
+      "vitesse": 70
+    },
+    {
+      "name": "Footsée",
+      "skin": "./imgs/fusee/fus_foot.png",
+      "rayon": 80,
+      "vitesse": 70
+    },
+    {
+      "name": "Mega fusée",
+      "skin": "./imgs/fusee/fus_mega_v2.png",
+      "rayon": 80,
+      "vitesse": 70
+    },
+    {
+      "name": "Metal fusée",
+      "skin": "./imgs/fusee/fus_metal.png",
+      "rayon": 80,
+      "vitesse": 70
+    },
+    {
+      "name": "Vel'fusée",
+      "skin": "./imgs/fusee/fus_velo.png",
+      "rayon": 80,
+      "vitesse": 70
+    }
+
+  ]
+}

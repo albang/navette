@@ -1,0 +1,17 @@
+{
+  "planet": "./imgs/planets/messy.png",
+ "background" :"imgs/back/back clean.png",
+ "personage": {
+  "img": "./imgs/persos/stich_without_back.png",
+  "position": {
+   "x":1100,
+   "y":30
+  },
+  "size":{"x": 475,"y": 475}
+ },
+ "scenes":[
+  {
+   "text": "Salut jeune inconnu(e)! Bienvenue sur la planète fourre tout.|Nous sommes bien embêtés nous avons coincé des objets dans une boite,|nous ne savons plus ce que c'est.|Ramène tout sur terre pour analyser les objets","audio_path": "./audio/scenes/fourre.ogg"},
+  {"text": "Appuyer sur un bouton pour redécoller",
+   "audio_path": "./audio/common/redecollage.ogg"}]
+}
